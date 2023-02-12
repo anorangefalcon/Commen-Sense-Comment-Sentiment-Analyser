@@ -10,7 +10,7 @@ class youtubeAPI:
     def __init__(self):
         self.all_comments = []
         self.video_id = ''
-        self.api_key = 'AIzaSyCeWL7FWHsYoFgrCEIjOug1qnhTEZzprIE'
+        self.api_key = 'insert your API Key'
 
     # recursive function to get all replies in a comment thread
     def get_replies(self, comment_id, token):
