@@ -4,11 +4,14 @@
 ## Introduction
 This is a machine learning project for sentiment analysis of YouTube video comments. The project uses Google's API to fetch comments from a particular video and then analyzes the sentiment of each comment using a logistic regression model trained on 1.6 million tweets. The project also provides a graphical user interface (GUI) to make it easy for users to input the video link and view the analysis results.
 
-## Real-Life UseCase
+## Real Life Use- Case
 
 * For users: The project provides an easy and convenient way to analyze the sentiment of comments on YouTube videos. This can help users get a better understanding of the overall sentiment of a video's comments, which can be useful in determining whether a video is worth watching or not. Additionally, the treeview of all the comments can provide a quick overview of what people are saying about a particular video.
 
 * For YouTubers: By analyzing the sentiment of their video comments, YouTubers can gain valuable insights into how their content is being received by their audience. This information can help them identify areas where they can improve their content and engage with their audience more effectively. Additionally, by understanding the overall sentiment of their comments, YouTubers can make data-driven decisions about their content strategy and see how their efforts are impacting their audience.
+
+## GUI
+![Screenshot-Commen'Sense](https://user-images.githubusercontent.com/54342280/218254456-7b657664-8ffa-494d-a87e-51e63e0d1c87.jpeg)
 
 ## Project Details
 The project has the following components:
